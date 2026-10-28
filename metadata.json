@@ -1,0 +1,6 @@
+{
+  "name": "SubStack",
+  "description": "A high-contrast fintech hub to track recurring digital subscriptions, spot zombie charges, and calculate true annual household burn rate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
